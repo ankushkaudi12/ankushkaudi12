@@ -23,10 +23,6 @@ I'm a passionate cybersecurity enthusiast and software developer. I love buildin
 
 ## 👤 Profiles
 
-## 👤 Profiles
-
-## 👤 Profiles
-
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
