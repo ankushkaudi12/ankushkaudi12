@@ -31,7 +31,7 @@ I'm a passionate cybersecurity enthusiast and software developer. I love buildin
   <tr style="border: none;">
     <td style="border: none;">
       <a href="https://tryhackme.com/p/ankushkaudi">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/ankushkaudi.png" alt="TryHackMe" width="170" height="60">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ankushkaudi.png" alt="TryHackMe" width="200" height="60">
       </a>
     </td>
     <td style="border: none;">
@@ -39,7 +39,11 @@ I'm a passionate cybersecurity enthusiast and software developer. I love buildin
         <img src="https://github.com/ankushkaudi12/ankushkaudi12/blob/main/Logos/LeetCode.png" alt="LeetCode" width="170" height="60" style="border-radius: 15px;">
       </a>
     </td>
+    <td style="border: none;">
+      <a href="https://www.geeksforgeeks.org/user/itsbunny_07/">
+        <img src="https://github.com/ankushkaudi12/ankushkaudi12/blob/main/Logos/GeeksForGeeks.jpeg" alt="LeetCode" width="170" height="60" style="border-radius: 15px;">
+      </a>
+    </td>
   </tr>
 </table>
-
 
