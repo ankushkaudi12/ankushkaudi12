@@ -23,4 +23,17 @@ I'm a passionate cybersecurity enthusiast and software developer. I love buildin
 
 ## 👤 Profiles
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ankushkaudi.png)](https://tryhackme.com/p/ankushkaudi)
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme.com/p/ankushkaudi">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ankushkaudi.png" alt="TryHackMe" width="170" height="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/itsbunny_07">
+        <img src="https://github.com/ankushkaudi12/ankushkaudi12/blob/main/Logos/LeetCode.png" alt="LeetCode" width="170" height="60">
+      </a>
+    </td>
+  </tr>
+</table>
