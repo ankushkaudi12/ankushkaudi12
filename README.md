@@ -2,13 +2,13 @@
 
 ## 🚀 Passionate Cybersecurity Enthusiast & Software Developer
 
-Welcome to my GitHub profile! I'm dedicated to building awesome projects and diving deep into the world of cybersecurity. I always strive to stay ahead with cutting-edge technologies and make impactful contributions.
+Welcome to my GitHub profile! I'm dedicated in building awesome projects and diving deep into the world of cybersecurity. I always strive to stay ahead with cutting-edge technologies and make impactful contributions.
 
 ---
 
 ## 🌟 About Me
 
-🔐 **Cybersecurity Enthusiast**: I have a keen interest in all things cybersecurity. From penetration testing to developing secure applications, I'm constantly exploring and learning.    
+🔐 **Cybersecurity Enthusiast**: I have a keen interest in all things of cybersecurity. From penetration testing to developing secure applications, I'm constantly exploring and learning.    
 
 💻 **Software Developer**: I love writing clean, efficient, and scalable code. Whether it's frontend, backend, or full-stack development, I'm always up for a challenge.    
 
