@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm dedicated in building awesome projects and div
 ## 🛠️ Technologies & Tools
 
 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)    
-**Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)    
-**Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)    
+**Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)       
+**Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)     
 **Security**: ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-0576C0?style=flat&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF4A00?style=flat&logo=burpsuite&logoColor=white)    
 
 **.... and many more 😎**
@@ -36,19 +36,6 @@ Welcome to my GitHub profile! I'm dedicated in building awesome projects and div
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ankushkaudi12@gmail.com)
 
 ---
-
-<!-- ## 🚧 Projects & Contributions
-
-Check out some of my key projects:
-
-- **[Project 1](https://github.com/yourusername/project1)**: Brief description of Project 1.
-- **[Project 2](https://github.com/yourusername/project2)**: Brief description of Project 2.
-- **[Project 3](https://github.com/yourusername/project3)**: Brief description of Project 3.
-
----
-
--->
-
 
 ## 👤 Profiles
 
