@@ -31,10 +31,14 @@ Welcome to my GitHub profile! I'm dedicated in building awesome projects and div
 
 ## 🏆 Certifications
 
-**📜 IBM Cybersecurity Analyst**  
-**📜 IBM Full Stack Developer**  
-**📜 Meta Database Engineer**  
-**📜 Meta Backend Developer**
+****
+**📜 AWS Cloud Technology Consultant**              
+**📜 IBM Cybersecurity Analyst**                  
+**📜 IBM Data Science**                       
+**📜 IBM Full Stack Developer**                      
+**📜 Meta Android Developer**                       
+**📜 Meta Backend Developer**                        
+**📜 Meta Database Engineer**                 
 
 ---
 
